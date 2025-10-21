@@ -29,7 +29,7 @@ Certifique-se de ter o Python 3.x instalado. Você precisará instalar as seguin
 
 ```bash
 pip install dash pandas plotly numpy
-
+```
 ## Formato dos Dados
 
 Para que o dashboard funcione corretamente, o arquivo enviado deve ser um arquivo `.csv` (valores separados por vírgula).
